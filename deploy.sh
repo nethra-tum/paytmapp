@@ -1,2 +1,2 @@
 script
-updating deploy
+updating deployment
